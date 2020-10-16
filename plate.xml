@@ -35,6 +35,9 @@
             <images name="petdesk_banner" name_friendly="PetDesk Banner" limit="1"><![CDATA[]]></images>
             <text name="image_alt" name_friendly="Image Alt"><![CDATA[PetDesk.com Image]]></text>
         </clippings>
+        <clippings>
+            <text name="test item" name_friendly="test_item" required="1"><![CDATA[Some Text]]></text>
+        </clippings>
         <ingredients>
 
           <!-- HEADLESS-1 FAQ  -->
